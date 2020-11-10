@@ -1,0 +1,8 @@
+1. First initialize variable `num` with 21000.
+2. Initialize valriable `sum` with zero.
+3. Change the number from integer to string using str() function and apply for loop for getting the each digit of the number.
+    3.1. add the digit seperated with sum variable inside for loop
+
+4. print the value of sum
+ 
+
